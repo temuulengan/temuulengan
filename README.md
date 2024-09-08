@@ -2,7 +2,7 @@
 
 * My name is Temuulen Ganochir. I'm studying Computer Science at [SeoulTech University](https://en.seoultech.ac.kr/).
 
-** My interest is:
+## My interest is:
 *   1. :smiley: Poems
     3. 🏀Basketball
     4. 💻Programming
