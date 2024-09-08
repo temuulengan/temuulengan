@@ -1,4 +1,13 @@
-## Hi there 👋
+## Welcome
+* My name is Temuulen Ganochir. I'm studying Computer Science at [SeoulTech University](https://en.seoultech.ac.kr/).
+
+* My interest is:
+*   1. :smiley: Poems
+    3. 🏀Basketball
+    4. 💻Programming
+
+
+*Thank You 
 
 <!--
 **temuulengan/temuulengan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
