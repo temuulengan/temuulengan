@@ -1,4 +1,4 @@
-![header] Welcome
+![header]Welcome
 * My name is Temuulen Ganochir. I'm studying Computer Science at [SeoulTech University](https://en.seoultech.ac.kr/).
 
 * My interest is:
