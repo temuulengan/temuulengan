@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20&fontColor=FFFFFF&animation=twinkling&textBg=false)
 
-* My name is ##Temuulen Ganochir##. I'm studying Computer Science at [SeoulTech University](https://en.seoultech.ac.kr/).
+* My name is ##(Temuulen Ganochir). I'm studying Computer Science at [SeoulTech University](https://en.seoultech.ac.kr/).
 
 ## My interest is:
 *   1. :smiley: Poems
