@@ -1,4 +1,5 @@
-![header]Welcome
+![header](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Welcome%20&fontColor=Gray)
+
 * My name is Temuulen Ganochir. I'm studying Computer Science at [SeoulTech University](https://en.seoultech.ac.kr/).
 
 * My interest is:
